@@ -1,0 +1,6 @@
+{
+  "name": "Pujo Planner",
+  "description": "The ultimate Kolkata Durga Puja discovery, interactive map, pandal database & route planning platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
